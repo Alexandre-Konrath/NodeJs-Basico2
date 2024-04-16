@@ -1,11 +1,14 @@
 ## listando todos so customers
-![1](https://github.com/Alexandre-Konrath/NodeJS-Basico2/assets/160286787/fe2b1801-5ef0-4656-bded-64bea054126e)
+![3](https://github.com/Alexandre-Konrath/NodeJs-Basico2/assets/160286787/54660f30-c809-47ce-b3f2-b399bdbc9471)
+
 ## buscando customres pelo id
-![2](https://github.com/Alexandre-Konrath/NodeJS-Basico2/assets/160286787/b220588b-0b04-49e5-88a6-05d3b7971d69)
+![2](https://github.com/Alexandre-Konrath/NodeJs-Basico2/assets/160286787/1b22fa08-4566-4754-aebe-2633796470e2)
+
 ## criando um customer novo
-![3](https://github.com/Alexandre-Konrath/NodeJS-Basico2/assets/160286787/3d6cd11e-0d99-4bd2-97f5-e71c4a3707c8)
+![5](https://github.com/Alexandre-Konrath/NodeJs-Basico2/assets/160286787/63a11de0-ec13-4ca8-ac88-5ba3ac045fc8)
+
 ## fazendo o update dele 
-![4](https://github.com/Alexandre-Konrath/NodeJS-Basico2/assets/160286787/0180e881-e367-4fef-83a5-a5035ae2734b)
-![5](https://github.com/Alexandre-Konrath/NodeJS-Basico2/assets/160286787/2cc14338-41ca-45c9-b96b-2fef326a52c4)
+![6](https://github.com/Alexandre-Konrath/NodeJs-Basico2/assets/160286787/fa07ee26-e8b9-4d57-8890-d7b618cbd316)
+
 ## e por fim deletando ele
-![6](https://github.com/Alexandre-Konrath/NodeJS-Basico2/assets/160286787/0fa5d991-ffb8-49f2-aeb8-072360dcb4f4)
+![4](https://github.com/Alexandre-Konrath/NodeJs-Basico2/assets/160286787/1cea2e8a-b78d-4e33-a2a4-e8aeb72bc5ef)
